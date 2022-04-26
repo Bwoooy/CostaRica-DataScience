@@ -1,13 +1,13 @@
 # CostaRica-DataScience
 Pythons llibraris used:
 
--Pandas
--Requests
--Pgeocode
--Json
--Polyline
--Datetime
--BeautifulSoup
+Pandas
+Requests
+Pgeocode
+Json
+Polyline
+Datetime
+BeautifulSoup
 
 
 
