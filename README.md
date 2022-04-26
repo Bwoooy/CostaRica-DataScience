@@ -1,6 +1,6 @@
 # CostaRica-DataScience
 
-Python llibraries:
+Python libraries:
 
 <ul>
   <li>Pandas</li>
