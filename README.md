@@ -1,14 +1,16 @@
 # CostaRica-DataScience
-Pythons llibraris used:
 
-Pandas
-Requests
-Pgeocode
-Json
-Polyline
-Datetime
-BeautifulSoup
+Pythons llibraries:
 
+<ul>
+  <li>Pandas</li>
+  <li>Requests</li>
+  <li>Pgeocode</li>
+  <li>Json</li>
+  <li>Polyline</li>
+  <li>Datetime</li>
+  <li>BeautifulSoup</li>
+</ul>
 
 
 Wikipedia data is no longer available.
