@@ -1,6 +1,6 @@
 # CostaRica-DataScience
 ![Captura de pantalla de 2022-04-26 16-37-54](https://user-images.githubusercontent.com/36175990/165336458-e8ba2f00-154b-43e8-a5ad-ce3606c46637.png)
-![Captura de pantalla de 2022-04-26 17-26-33](https://user-images.githubusercontent.com/36175990/165336473-74f538d5-0e3b-48fb-a671-ed1373854d3c.png)
+![Captura de pantalla de 2022-04-26 17-28-37](https://user-images.githubusercontent.com/36175990/165336856-390a9ed6-a5f6-4166-a7dc-858ec70e1aeb.png)
 ![Captura de pantalla de 2022-04-26 17-13-38](https://user-images.githubusercontent.com/36175990/165336498-9a63bc3c-58f9-4ca5-b13f-9546f47d9b3e.png)
 ![Captura de pantalla de 2022-04-26 17-14-24](https://user-images.githubusercontent.com/36175990/165336505-9513d281-dc2a-496a-b725-e1a7e35690ff.png)
 ![Captura de pantalla de 2022-04-26 17-15-24](https://user-images.githubusercontent.com/36175990/165336507-9ab39d41-8101-4687-a81a-beeacf69e204.png)
