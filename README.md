@@ -1,4 +1,12 @@
 # CostaRica-DataScience
+
+Wikipedia data is no longer available.
+
+If you are looking for a better rendering of the notebook, please go to the following link:
+
+https://nbviewer.org/github/Bwoooy/CostaRica-DataScience/blob/45e694f6a5551c414ec135bf72986286b4a76a97/CR.ipynb
+
+
 ![Captura de pantalla de 2022-04-26 16-37-54](https://user-images.githubusercontent.com/36175990/165336458-e8ba2f00-154b-43e8-a5ad-ce3606c46637.png)
 ![Captura de pantalla de 2022-04-26 17-28-37](https://user-images.githubusercontent.com/36175990/165336856-390a9ed6-a5f6-4166-a7dc-858ec70e1aeb.png)
 ![Captura de pantalla de 2022-04-26 17-13-38](https://user-images.githubusercontent.com/36175990/165336498-9a63bc3c-58f9-4ca5-b13f-9546f47d9b3e.png)
