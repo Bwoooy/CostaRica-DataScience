@@ -1,6 +1,6 @@
 # CostaRica-DataScience
 
-Pythons llibraries:
+Python llibraries:
 
 <ul>
   <li>Pandas</li>
@@ -13,9 +13,9 @@ Pythons llibraries:
 </ul>
 
 
-Wikipedia data is no longer available usign the link in the notebook. 
+Wikipedia data is no longer available.The new link is: https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_postales_de_Costa_Rica
 
-The new link is: https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_postales_de_Costa_Rica
+
 
 If you are looking for a better rendering of the notebook, please go to the following link:
 
