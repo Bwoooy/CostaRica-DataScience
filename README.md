@@ -17,7 +17,12 @@ If you are looking for a better rendering of the notebook, please go to the foll
 
 https://nbviewer.org/github/Bwoooy/CostaRica-DataScience/blob/11185e0d0a8a008a579461bebf87bfb1bb90c4ef/CR.ipynb
 
+
+
+
 Some images from the notebook as an introduction :
+
+
 
 
 ![Captura de pantalla de 2022-04-26 17-28-37](https://user-images.githubusercontent.com/36175990/165336856-390a9ed6-a5f6-4166-a7dc-858ec70e1aeb.png)
